@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - thornTag
+  - thong
+  - iBulletTag
+  - oilTag
+  - yellowtag
+  - bb
+  - Player2
+  - picTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1850764715
+    locked: 0
+  - name: floor
+    uniqueID: 1511125477
+    locked: 0
+  - name: box
+    uniqueID: 2944245827
+    locked: 0
+  - name: char
+    uniqueID: 2557424867
+    locked: 0
+  - name: front
+    uniqueID: 1051385729
+    locked: 0
